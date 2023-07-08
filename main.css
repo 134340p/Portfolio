@@ -1,0 +1,57 @@
+body {
+    margin: 3%;
+    
+}
+.wrapper {
+padding-top: 2%;
+padding-right: 10%;
+padding-left: 10%;
+}
+.header {
+color: #000000;
+font-family: 'consolas';
+text-align: right;
+line-height: 30%;
+font-size: 90%;
+}
+
+.name {
+    font-family: 'consolas';
+    font-weight: bolder;
+    font-size: 250%;
+}
+
+.Role {
+  font-family: 'consolas';
+  display: flex;
+}
+
+#skills {
+    position: relative;
+    top: 30%;
+}
+
+.ex {
+    font-family: 'consolas';
+}
+.sum {
+    text-align: center;
+    justify-content: center;
+    font-family: 'consolas';
+}
+
+#pluto {
+    text-align: right;
+    font-family: 'consolas';
+    filter: blur(1px);
+}
+
+.suz {
+    position: absolute;
+    top: 3px;
+    right: 750px;
+    float: right;
+    height: 100px;
+    width: 200px;
+
+}
