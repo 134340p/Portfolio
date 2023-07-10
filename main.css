@@ -36,7 +36,6 @@ font-size: 90%;
   display: flex;
 }
 
-
 #skills {
     position: relative;
     top: 30%;
@@ -66,4 +65,14 @@ font-size: 90%;
     height: 100px;
     width: 200px;
 
+}
+
+.content {
+    justify-content: center;
+    text-align: center;
+    padding: 10%;
+    font-family: "consolas";
+}
+.cm {
+    flex: auto;
 }
