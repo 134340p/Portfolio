@@ -76,3 +76,6 @@ font-size: 90%;
 .cm {
     flex: auto;
 }
+.c1d {
+   flex: content;
+}
